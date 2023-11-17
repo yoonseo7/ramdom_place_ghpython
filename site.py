@@ -1,3 +1,5 @@
+# 직사각형이 아닌 형태의 사이트를 배열화하기 위한 코드입니다
+
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.path import Path
